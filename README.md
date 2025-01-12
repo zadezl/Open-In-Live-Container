@@ -2,7 +2,7 @@
 
 Fork of [Open-In-Apollo](https://github.com/AnthonyGress/Open-In-Apollo) by Anthony Gress to support Apollo running within [Live Container](https://github.com/AnthonyGress/Open-In-Apollo)
 
-A userscript to open Reddit links in the Apollo app on iPhone. Works with sideloaded apollo as well.
+A userscript to open Reddit links in the Apollo app on iPhone within Live Container **only**.
 
 ## Downloads
 

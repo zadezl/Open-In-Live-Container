@@ -20,6 +20,7 @@ A userscript fork of [Open-In-Apollo](https://github.com/AnthonyGress/Open-In-Ap
 ## Usage
 
 - Open any reddit link in Safari, you should see a pop up asking if you want to "Open this page in LiveContainer"
+  
   <img width="386" alt="image" src="https://github.com/user-attachments/assets/36f5b6bb-9a22-4637-aa0e-490cef45ba1d" />
 
 - It will redirect to Live Container breifly and open Apollo inside Live Container.

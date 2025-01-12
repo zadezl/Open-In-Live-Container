@@ -3,9 +3,9 @@
 // @version      1.0.0
 // @author       nathandaven
 // @match        *://x.com/*
-// @downloadURL  https://gist.github.com/nathandaven/76fd9c1e9e7c30eaea29003120acb4ae/raw/62f5aa9d52998135346bc622244a66879becc6d2/open-in-twitter-live-container.user.js
-// @updateURL    https://gist.github.com/nathandaven/76fd9c1e9e7c30eaea29003120acb4ae/raw/62f5aa9d52998135346bc622244a66879becc6d2/open-in-twitter-live-container.user.js
-// @homepage     https://gist.github.com/nathandaven/76fd9c1e9e7c30eaea29003120acb4ae
+// @downloadURL  https://github.com/nathandaven/Open-In-Live-Container/raw/refs/heads/main/open-in-twitter-live-container.user.js
+// @updateURL    https://github.com/nathandaven/Open-In-Live-Container/raw/refs/heads/main/open-in-twitter-live-container.user.js
+// @homepage     https://github.com/nathandaven/Open-In-Apollo-Live-Container/tree/main
 
 // ==/UserScript==
 

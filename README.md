@@ -1,4 +1,4 @@
-# Open-In-Apollo-Live-Container
+# Open-In-Live-Container
 
 A userscript fork of [Open-In-Apollo](https://github.com/AnthonyGress/Open-In-Apollo) by Anthony Gress to support Apollo running within [Live Container](https://github.com/AnthonyGress/Open-In-Apollo). Supports Live Container **only**, for normal sideloaded Apollo see original script.
 

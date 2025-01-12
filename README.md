@@ -22,6 +22,8 @@ Install the detected Userscript.
 ## Usage
 
 Open any reddit link in Safari, you should see a pop up asking if you want to "Open this page in LiveContainer"
-![C19E3A9A-C537-4AF0-AD17-15F98C4CAC83_4_5005_c](https://github.com/AnthonyGress/Open-In-Apollo/assets/70029654/2c719d2d-7f7b-42d7-b35a-60cdb571d92c)
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/36f5b6bb-9a22-4637-aa0e-490cef45ba1d" />
 
-Tested on iOS 18.2.1 and Live Container 3.1.59-release
+It will redirect to Live Container breifly and open Apollo inside Live Container.
+
+Tested on iOS 18.2.1, with Apollo 1.15.11 + ApolloPatcher 0.0.9 and Live Container 3.1.59-release

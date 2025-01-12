@@ -2,6 +2,8 @@
 
 A userscript fork of [Open-In-Apollo](https://github.com/AnthonyGress/Open-In-Apollo) by Anthony Gress to support Apollo running within [Live Container](https://github.com/AnthonyGress/Open-In-Apollo). Supports Live Container **only**, for normal sideloaded Apollo see original script.
 
+I have a few other gists for Twitter, Instagram, Youtube in Live Container here: https://gist.github.com/nathandaven/76fd9c1e9e7c30eaea29003120acb4ae
+
 ## Downloads
 
 - Safari extension to run user script (free): https://apps.apple.com/us/app/userscripts/id1463298887
@@ -26,3 +28,5 @@ A userscript fork of [Open-In-Apollo](https://github.com/AnthonyGress/Open-In-Ap
 - It will redirect to Live Container breifly and open Apollo inside Live Container.
 
 - Tested on iOS 18.2.1, with Apollo 1.15.11 + ApolloPatcher 0.0.9 and Live Container 3.1.59-release
+
+

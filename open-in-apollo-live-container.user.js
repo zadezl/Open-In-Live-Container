@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Open Apollo App Live Container
-// @version      1.0.3-alt
+// @version      1.0.0
 // @author       nathandaven
 // @match        *://*.reddit.com/*
-// @downloadURL  https://gist.github.com/AnthonyGress/c04327abc6ff3bc45871468743f00341/raw/open-in-apollo-live-container.user.js
-// @updateURL    https://gist.github.com/AnthonyGress/c04327abc6ff3bc45871468743f00341/raw/open-in-apollo-live-container.user.js
-// @homepage     https://github.com/AnthonyGress/Open-In-Apollo/edit/main/open-in-apollo-live-container.user.js
+// @downloadURL  https://github.com/nathandaven/Open-In-Apollo-Live-Container/raw/525f547ed2cbca1d8edaeee8a9a8c52715521224/open-in-apollo-live-container.user.js
+// @updateURL    https://github.com/nathandaven/Open-In-Apollo-Live-Container/raw/525f547ed2cbca1d8edaeee8a9a8c52715521224/open-in-apollo-live-container.user.js
+// @homepage     https://github.com/nathandaven/Open-In-Apollo-Live-Container/tree/main
 // ==/UserScript==
 
 // need to encode the string to base64 for live container link to work

@@ -2,7 +2,7 @@
 
 A userscript fork of [Open-In-Apollo](https://github.com/AnthonyGress/Open-In-Apollo) by Anthony Gress to support Apollo running within [Live Container](https://github.com/AnthonyGress/Open-In-Apollo). Supports Live Container **only**, for normal sideloaded Apollo see original script.
 
-I have a few other gists for Twitter, Instagram, Youtube in Live Container here: https://gist.github.com/nathandaven/76fd9c1e9e7c30eaea29003120acb4ae
+I've also adapted this to a few other scripts for Twitter, Youtube, Instagram and uploaded here. Thanks to https://gist.github.com/ryuya0124/e6e59ceba8f03bf40f3b5accedc52e44 for Twitter script.
 
 ## Downloads
 

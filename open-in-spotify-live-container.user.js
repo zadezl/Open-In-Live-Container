@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Open in Spotify Live Container
+// @name         Open in Spotify LiveContainer
 // @version      1.0.0
 // @author       zadezl
 // @match        *://*.spotify.com/*

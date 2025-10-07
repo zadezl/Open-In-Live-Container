@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         Open in Youtube Live Container
+// @name         Open in Spotify Live Container
 // @version      1.0.0
-// @author       nathandaven
+// @author       zadezl
 // @match        *://*.spotify.com/*
-// @downloadURL  https://github.com/nathandaven/Open-In-Live-Container/raw/refs/heads/main/open-in-youtube-live-container.user.js
-// @updateURL    https://github.com/nathandaven/Open-In-Live-Container/raw/refs/heads/main/open-in-youtube-live-container.user.js
-// @homepage     https://github.com/nathandaven/Open-In-Apollo-Live-Container/tree/main
+// @downloadURL  https://github.com/zadezl/Open-In-Live-Container/raw/refs/heads/main/open-in-spotify-live-container.user.js
+// @updateURL    https://github.com/zadezl/Open-In-Live-Container/raw/refs/heads/main/open-in-spotify-live-container.user.js
+// @homepage     https://github.com/zadezl/Open-In-Live-Container/tree/main
 // ==/UserScript==
 
 // need to encode the string to base64 for live container link to work
